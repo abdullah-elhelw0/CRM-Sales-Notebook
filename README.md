@@ -24,11 +24,11 @@ This analysis provides insights into CRM sales efficiency, identifying key facto
 
 ---
 
-![close_value_per_sector](./close_value_per_sector.png)
-![Deal_stage_dist](./Deal_stage_dist.png)
-![Rev_per_agent](./Rev_per_agent.png)
-![Rev_per_office](./Rev_per_office.png)
-![Total_close_values](./Total_close_values.png)
-![count_agent_per_sector](./count_agent_per_sector.png)
+![close_value_per_sector](./Vizs/close_value_per_sector.png)
+![Deal_stage_dist](./Vizs/Deal_stage_dist.png)
+![Rev_per_agent](./Vizs/Rev_per_agent.png)
+![Rev_per_office](./Vizs/Rev_per_office.png)
+![Total_close_values](./Vizs/Total_close_values.png)
+![count_agent_per_sector](./Vizs/count_agent_per_sector.png)
 
 For more details open [Analysis.ipynb](./Analysis.ipynb)
